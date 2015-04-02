@@ -1,2 +1,2 @@
-We will focus on rewriteing the Filesanywhere code
+We will focus on rewriting the Filesanywhere code
 with a mobile first approach.
